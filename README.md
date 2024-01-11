@@ -33,5 +33,5 @@ License
 No License
 
 Acknowledgments
-This project was created by Justin Bustamante & Sean Miller
+This project was created by Justin Bustamante.
 Special thanks to the MTG community for their support and input.
